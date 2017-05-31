@@ -31,5 +31,13 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	It's complicated. Let's simply say, the result of a merge is "sum" of 
+	changes in merged branches/commits. The merge commit will have added content
+	by any of merged commits, and will delete content which is in the original
+	file and is deleted by any of the commits.
+	
+	We represent it in a graph as combined branches, because it's kind of 
+	combining multiple branches. It let's us to better visualize the merge.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
