@@ -21,13 +21,13 @@ would you use one instead of another?
 	computer.
 	Fork - is a clone of a repository on GitHub. I will use forking, 
 	when I want to clone GitHub repository to my GitHub account.
-	Branch is a label for commit. I would use it when I want to switch
+	Branch - is a label for commit. I would use it when I want to switch
 	context. For example, fixing a bug, creating new feature, etc...
 
 What is the benefit of having a copy of the last known state of the 
 remote stored locally?
 
-    Fill in your answer here
+	???
 
 How would you collaborate without using Git or GitHub?  What would be 
 easier, and what would be harder?
