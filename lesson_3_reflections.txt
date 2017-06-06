@@ -31,8 +31,7 @@ remote stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be 
 easier, and what would be harder?
-
-    Maybe, using cloud storage? 
+    Maybe, using cloud stora? 
 	Pro: It is more user-friendly, easier to
 	understand and operate on, but less flexible. 
 	Con: No history.
@@ -42,4 +41,11 @@ easier, and what would be harder?
 When would you want to make changes in a separate branch rather than 
 directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes directly would add less overhead, since you don't
+	have merge and etc.  Having different branch is a great way to keep
+	your working code separate from changes.
+	
+	Different branch is also very useful in case of collaboration.
+	If 2 person changes master at the same time, one would have no idea
+	about the change of other, and vice versa. Branch is great solution
+	for this.
