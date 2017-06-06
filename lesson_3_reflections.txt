@@ -32,7 +32,12 @@ remote stored locally?
 How would you collaborate without using Git or GitHub?  What would be 
 easier, and what would be harder?
 
-    Fill in your answer here
+    Maybe, using cloud storage? 
+	Pro: It is more user-friendly, easier to
+	understand and operate on, but less flexible. 
+	Con: No history.
+	Con: No forking.
+	Con: No pull request.
 
 When would you want to make changes in a separate branch rather than 
 directly in master?  What benefits does each approach have?
